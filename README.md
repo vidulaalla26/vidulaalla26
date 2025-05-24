@@ -25,11 +25,11 @@ As a Computer Science student pursuing minors in Data Science & Global Health wi
 ### Learning 🧠💡📖
 [![Learning](https://skillicons.dev/icons?i=nodejs,react,html)](https://skillicons.dev)
 
-### What I'm Currently Working On! ⭑‧₊˚⋅๋💻‧₊˚⋅⭑
+### What I'm Currently Working On ⭑‧₊˚⋅๋💻‧₊˚⋅⭑
 I am currently a Break Through Tech AI/ML Fellow at Cornell University and am focusing on building machine learning models and diving deeper into data science. Through this program, I am expanding on my Python skills as well as utilizing various libraries and frameworks such as scikit-learn, Pandas, NumPy, matplotlib, and spaCy. Alongside these skills, I am also gaining familiarity with Jupyter Notebook. Upon completion of the summer course and receiving the Machine Learning Certificate from Cornell, I will have the opportunity to apply the skills learned to work on a real-world project for one of the many industry partners of the program. 
 
 
-### Connect with me!
+### Connect with me!🫱🏼‍🫲🏾💐
 <div>
     <a href="https://www.linkedin.com/in/vidula-alla/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
