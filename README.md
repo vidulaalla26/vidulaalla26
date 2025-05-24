@@ -20,7 +20,7 @@ As a Computer Science student pursuing minors in Data Science & Global Health wi
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,javascript,c,cpp,github,sql,mysql,eclipse,arduino,rasberrypi,autocad)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,javascript,c,cpp,github,mysql,eclipse,arduino,raspberrypi,autocad)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=ai,nodejs,react,html)](https://skillicons.dev)
