@@ -12,17 +12,17 @@
 </a>
 
 
-### My mission 🌎🧬⚙️🦾
+### My Mission 🌎🧬⚙️🦾
 As a Computer Science student pursuing minors in Data Science & Global Health with a foundation in Biomedical Engineering, I am passionate about the intersection of technology and healthcare. My academic background in Biomedical Engineering provided insight into healthcare’s challenges, and my industry experience has allowed me to apply my technical skills to real-world medical device projects. I’m particularly interested in using machine learning, data analytics, and AI to improve diagnostic accuracy, personalized medicine, and overall healthcare delivery. I’m driven by a love for solving problems! My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
 
 <!--
      This is the list of my skills and tools I am studying!
 -->
 
-### Main skills ✨💫
+### Main Skills ✨💫
 [![My Skills](https://skillicons.dev/icons?i=py,java,javascript,c,cpp,github,mysql,eclipse,arduino,raspberrypi,autocad)](https://skillicons.dev)
 
-### Currently Learning 🧠💡📖
+### Learning 🧠💡📖
 [![Learning](https://skillicons.dev/icons?i=nodejs,react,html)](https://skillicons.dev)
 
 
