@@ -25,6 +25,8 @@ As a Computer Science student pursuing minors in Data Science & Global Health wi
 ### Learning 🧠💡📖
 [![Learning](https://skillicons.dev/icons?i=nodejs,react,html)](https://skillicons.dev)
 
+### What I'm Currently Working On! 
+
 
 ### Connect with me!
 <div>
