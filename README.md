@@ -8,7 +8,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Vidula+Alla;Welcome!" alt="Welcome!"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hey%2C+it's+Vidula+:);Welcome!" alt="Welcome!"/>
 </a>
 
 
@@ -20,7 +20,7 @@ As a Computer Science student pursuing minors in Data Science & Global Health wi
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=py,java,javascript,c,github,mysql,eclipse,intellij,nodejs,react,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,javascript,c,github,sql,mysql,eclipse,nodejs,react,html,css,)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
