@@ -36,7 +36,11 @@ Feel free to take a look at what I've worked on during the BTT Fellowship: https
     <a href="https://www.linkedin.com/in/vidula-alla/">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
-   
+    
+    &nbsp;&nbsp;
+    <a href="mailto:valla3@wisc.edu">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="35" height="35"/>
+    </a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
